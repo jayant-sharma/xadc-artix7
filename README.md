@@ -1,0 +1,1 @@
+This project contains source code for 12 bit ADC.
