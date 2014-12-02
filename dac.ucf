@@ -1,0 +1,10 @@
+
+NET "clk" IOSTANDARD = LVCMOS25;
+NET "reset" IOSTANDARD = LVCMOS25;
+NET "dac_out" IOSTANDARD = LVTTL;
+
+# PlanAhead Generated physical constraints 
+
+NET "clk" LOC = C9;
+NET "dac_out" LOC = A4;
+NET "reset" LOC = L13;
